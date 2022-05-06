@@ -30,7 +30,7 @@
     
         nav {
             margin: 64px;
-                padding: 0;
+                padding: -20;
         }
         
         nav>ul>li {
